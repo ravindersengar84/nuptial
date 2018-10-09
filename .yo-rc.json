@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "nuptial",
+    "packageName": "com.sf",
+    "packageFolder": "com/sf",
+    "serverPort": 8081,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.4.2",
+    "jwtSecretKey": "ZGUxYTBmOGU2MDc0ZDFiN2U1MjQzNzU0Mjc3YmY0OGIyZjBkYTU1MjM5MjkzZjYzYjQ4Mzk1NGZhYjg4OTcwYWU4NzU1M2QzYjY5Y2RiMDM1MGU1OTk0NGRmYWMzYWE1MjBjNTYzOWRiNmVmMzAxNmVjNGIxYjEyYmIxZDIzNTQ=",
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "ravindersengar84",
+  "repository-name": "nuptial"
+}
